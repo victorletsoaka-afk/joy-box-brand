@@ -6,7 +6,7 @@
 }
 
 body {
-    background:#e6f7ff;
+    background:lightsteelblue;
 }
 
 /* HEADER */
@@ -42,7 +42,7 @@ header {
 
 /* NAVIGATION */
 nav {
-    background: #333;
+    background:darkred;
 }
 
 nav ul {
@@ -102,7 +102,7 @@ nav ul li ul li {
 
 /* FOOTER */
 footer {
-    background: #222;
+    background:darkred;
     color: white;
     padding: 30px;
 }
